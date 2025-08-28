@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project focuses on predicting the **Overall rating** of players in the FIFA 23 dataset using **machine learning techniques**. The "Overall" column represents a player’s general ability and is widely used for scouting, analysis, and team building.  
 
-By analyzing player attributes such as pace, shooting, passing, dribbling, defending, and physicality, this project builds predictive models to estimate the **Overall rating** of football players.  
+By analyzing player attributes such as'Age', 'Potential', 'Club', 'Value', 'Wage', 'Special' , this project builds predictive models to estimate the **Overall rating** of football players.  
 
 **Goals:**  
 - Explore the FIFA 23 dataset through **Exploratory Data Analysis (EDA)**  
